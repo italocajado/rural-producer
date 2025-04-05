@@ -60,7 +60,7 @@ $ docker-compose up -d
 
 ```
 ## Isso ira:
-  Construir a aplicação Node.js  
-  Iniciar um banco de dados PostgreSQL
-  Conecte o aplicativo ao banco de dados
-  Rodar a API na porta 3000
+  Construir a aplicação Node.js    
+  Iniciar um banco de dados PostgreSQL  
+  Conecte o aplicativo ao banco de dados  
+  Rodar a API na porta 3000  
