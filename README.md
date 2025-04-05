@@ -23,7 +23,7 @@
 
 ## Descrição
 
-API de Registro de Produtor Rural
+API de Registro de Produtor Rural  
 Esta é uma aplicação NestJS para gerenciar registros de produtores rurais. O sistema permite que os usuários registrem, editem e excluam produtores rurais, bem como visualizem dados agregados sobre as propriedades.
 
 Características
@@ -60,7 +60,7 @@ $ docker-compose up -d
 
 ```
 ## Isso ira:
-Construir a aplicação Node.js
-Iniciar um banco de dados PostgreSQL
-Conecte o aplicativo ao banco de dados
-Rodar a API na porta 3000
+  Construir a aplicação Node.js  
+  Iniciar um banco de dados PostgreSQL
+  Conecte o aplicativo ao banco de dados
+  Rodar a API na porta 3000
